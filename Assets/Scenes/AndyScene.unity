@@ -2034,7 +2034,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: 6ee1e41d-6368-4794-9c1b-4056aaa18ed5
-      m_Path: <XRSimulatedController>{LeftHand}/primaryButton
+      m_Path: <XRSimulatedController>{RightHand}/primaryButton
       m_Interactions: 
       m_Processors: 
       m_Groups: 
