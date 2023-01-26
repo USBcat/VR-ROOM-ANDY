@@ -1211,6 +1211,22 @@ MonoBehaviour:
       m_Groups: 
       m_Action: Action
       m_Flags: 0
+    - m_Name: 
+      m_Id: c766a7cc-f408-4d99-b171-f7fce0e562d4
+      m_Path: '*/{PrimaryButton}'
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
+    - m_Name: 
+      m_Id: 7d3b59f0-ecb6-4b83-b9d4-c9ab0c081923
+      m_Path: <OculusTouchController>{LeftHand}/thumbstick
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
     m_Flags: 0
   OnPress:
     m_PersistentCalls:
@@ -2017,8 +2033,24 @@ MonoBehaviour:
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: 4edbc96f-075d-4a3c-abec-879128eac9b9
-      m_Path: <XRSimulatedController>{RightHand}/primaryButton
+      m_Id: 6ee1e41d-6368-4794-9c1b-4056aaa18ed5
+      m_Path: <XRSimulatedController>{LeftHand}/primaryButton
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
+    - m_Name: 
+      m_Id: c766a7cc-f408-4d99-b171-f7fce0e562d4
+      m_Path: '*/{PrimaryButton}'
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
+    - m_Name: 
+      m_Id: 7d3b59f0-ecb6-4b83-b9d4-c9ab0c081923
+      m_Path: <OculusTouchController>{LeftHand}/thumbstick
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -2209,6 +2241,14 @@ MonoBehaviour:
     - m_Name: 
       m_Id: bacb31d5-4c94-4b20-bbbf-54192099befe
       m_Path: <Keyboard>/#(0)
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
+    - m_Name: 
+      m_Id: d148b81b-1d29-44ab-9fde-723d7e6c817f
+      m_Path: '*/{SecondaryButton}'
       m_Interactions: 
       m_Processors: 
       m_Groups: 
